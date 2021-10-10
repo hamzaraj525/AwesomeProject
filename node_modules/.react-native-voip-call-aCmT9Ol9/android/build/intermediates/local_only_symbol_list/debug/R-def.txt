@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_call_black_24dp
+drawable ic_phone_missed_black_24dp
+raw nosound
+raw ringtune
